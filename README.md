@@ -1,3 +1,5 @@
+# NO LONGER REQUIRED - THIS GOT FIXED
+
 # kr-editor-krunkscript-fix
 ## How to use?
 - install tampermonkey browser extension (click [here](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo))
